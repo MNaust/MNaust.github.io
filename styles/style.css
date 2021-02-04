@@ -1,0 +1,22 @@
+
+html {
+  font-size: 16px; /* px means "pixels": the base font size is now 10 pixels high  */
+  background-color: #F1F8F8;
+  color: #013F40;
+}
+h1 {
+	font-family: "Dancing Script", cursive; 
+	margin: 0;
+	padding: 20px 0;
+}
+body {
+	width: 600px;
+	margin: 0 auto;
+	background-color: rgba(180, 230, 150, 0.50);
+	padding: 0 30px 30px 30px;
+	border: 5px solid black;
+}
+img {
+	width: 400px;
+	
+}
